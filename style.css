@@ -5,6 +5,7 @@
 
 }
 body{
+    background: linear-gradient(80deg,#d3818a,#5e4ed3,#6db85a,#5c72aa);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +15,7 @@ body{
     max-width: 450px;
     background-color: bisque;
     border-radius: 10px;
-    box-shadow: 0px 0px 15px 3px rgb(197, 72, 58);
+    box-shadow: 0px 0px 15px 3px rgb(225, 98, 84);
     font-family: sans-serif;
     padding: 20px;
 
@@ -54,6 +55,7 @@ input{
     outline: none;
     border-radius: 8px 0 0 8px;
     padding: 0 10px;
+
 }
 
 input::-webkit-outer-spin-button,
@@ -98,5 +100,4 @@ input::-webkit-inner-spin-button{
 .button button:hover{
     background: black;
     color: white;
-
 }
