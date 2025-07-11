@@ -7,19 +7,21 @@
 </p>
 
 ---
-
 ### 🧑‍💻 About Me
 
-- I'm a first-year Computer Science student at Newton School of Technology, Rishihood University, Sonipat.
-- I enjoy coding, solving problems, and exploring new technologies — anything that lets me build, break, and learn along the way.
-- Currently working as an SDE Intern at Prodoc AI, where I’m contributing to real-world AI-backed tools and backend development.
-- Over time, I’ve built projects using Python, JavaScript, React, MongoDB, HTML/CSS, and I’m actively working on mastering data structures and algorithms.
-- I’ve solved over 280 problems on LeetCode and currently hold a Codeforces rating of 757+.
-- Outside of tech, I enjoy playing badminton, cricket, and lawn tennis — it helps me reset and stay focused.
-- Being part of Neutron 2.0 has also helped me develop communication, collaboration, and time management skills.
-- I'm always open to learning, sharing, and building cool stuff with others.
+- I'm a **first-year Computer Science student** at **Newton School of Technology**, **Rishihood University**, Sonipat.
+- I love **coding**, **problem-solving**, and **exploring new technologies** — anything that lets me build, break, and grow.
+- Currently working as an **SDE Intern at Prodoc AI**, contributing to real-world **AI-driven tools** and **backend systems**.
+- I've built projects using **Python**, **JavaScript**, **React**, **MongoDB**, **HTML/CSS**, and I’m actively mastering **Data Structures and Algorithms**.
+- Solved **280+ problems on LeetCode** and hold a **Codeforces rating of 757+**.
+- Scored an **SGPA of 8.696** in my first semester.
+- I recharge by playing **badminton**, **cricket**, and **lawn tennis** — sports help me stay active and focused.
+- As part of **Neutron 2.0**, I've grown in **communication, collaboration**, and **time management**.
+- Always open to **learning, building**, and working with people who love tech as much as I do.
 
-You can reach me at: **koriginjasathvik@gmail.com**
+📫 Reach me at: **koriginjasathvik@gmail.com**
+
+---
 
 ---
 
