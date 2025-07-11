@@ -63,7 +63,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sathvik-k-origin" target="_blank">
+  <a href="https://www.linkedin.com/in/sathvik-koriginja-846b1631a/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
   <a href="mailto:koriginjasathvik@gmail.com">
