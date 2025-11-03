@@ -25,21 +25,26 @@
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" style="margin-right:15px; display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" style="margin-right:15px; display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" style="margin-right:15px; display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" style="margin-right:15px; display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" style="margin-right:15px; display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" style="margin-right:15px; display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" style="margin-right:15px; display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" style="margin-right:15px; display:inline-block;"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" height="30" alt="Tailwind CSS" style="margin-right:15px; display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" style="margin-right:15px; display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" style="margin-right:15px; display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" style="display:inline-block;"/>
-</p>
+### Languages and Tools
+
+**Programming Languages:**  
+Python · JavaScript  
+
+**Markup & Styling:**  
+HTML5 · CSS3  
+
+**Frontend Frameworks:**  
+React.js · Tailwind CSS  
+
+**Backend & Databases:**  
+Node.js · Express.js · MongoDB  
+
+**Data & Analysis:**  
+Pandas  
+
+**Design & Collaboration:**  
+Figma · Git  
+
 
 
 
@@ -47,7 +52,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sathvik-koriginja-846b1631a/" target="_blank">
