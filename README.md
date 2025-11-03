@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there, I'm Sathvik</h1>
+<h1 align="center">Hi, I'm Sathvik</h1>
 <h3 align="center">Full-stack developer · AIML enthusiast · Always building & learning</h3>
 
 <p align="center">
