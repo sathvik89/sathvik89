@@ -22,36 +22,6 @@
 📫 Reach me at: **koriginjasathvik@gmail.com**
 
 ---
-
----
-
-### Languages and Tools
-
-**Programming Languages:**  
-Python · JavaScript  
-
-**Markup & Styling:**  
-HTML5 · CSS3  
-
-**Frontend Frameworks:**  
-React.js · Tailwind CSS  
-
-**Backend & Databases:**  
-Node.js · Express.js · MongoDB  
-
-**Data & Analysis:**  
-Pandas  
-
-**Design & Collaboration:**  
-Figma · Git  
-
-
-
-
----
-
----
-
 ### Connect with Me
 
 <p align="left">
