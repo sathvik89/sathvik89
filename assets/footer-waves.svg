@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Thanks for stopping by — see you on the Grand Line">
+  <rect width="1200" height="170" fill="none"/>
+  <path d="M0 40 Q 150 22 300 40 Q 450 58 600 40 Q 750 22 900 40 Q 1050 58 1200 40 Q 1350 22 1500 40 Q 1650 58 1800 40 Q 1950 22 2100 40 Q 2250 58 2400 40 L2400 170 L0 170 Z" fill="#2c6fa8" opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -600 0" dur="13s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 54 Q 150 36 300 54 Q 450 72 600 54 Q 750 36 900 54 Q 1050 72 1200 54 Q 1350 36 1500 54 Q 1650 72 1800 54 Q 1950 36 2100 54 Q 2250 72 2400 54 L2400 170 L0 170 Z" fill="#1f5487" opacity="0.8">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -600 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 68 Q 150 50 300 68 Q 450 86 600 68 Q 750 50 900 68 Q 1050 86 1200 68 Q 1350 50 1500 68 Q 1650 86 1800 68 Q 1950 50 2100 68 Q 2250 86 2400 68 L2400 170 L0 170 Z" fill="#123a63" opacity="1">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -600 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="128" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" fill="#fff1d6" letter-spacing="2">Thanks for stopping by — see you on the Grand Line</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30" role="img" aria-label="">
+  <path d="M0 15 Q 30 5 60 15 T 120 15 T 180 15 T 240 15 T 300 15 T 360 15 T 420 15 T 480 15 T 540 15" fill="none" stroke="#c9a464" stroke-width="3" stroke-dasharray="7 5"/>
+  <path d="M660 15 Q 690 5 720 15 T 780 15 T 840 15 T 900 15 T 960 15 T 1020 15 T 1080 15 T 1140 15 T 1200 15" fill="none" stroke="#c9a464" stroke-width="3" stroke-dasharray="7 5"/>
+  <g transform="translate(600 15)" fill="none" stroke="#c9a464" stroke-width="3" stroke-linecap="round">
+    <circle cx="0" cy="-9" r="3.5"/><path d="M0 -5 V 11 M-8 0 H 8 M-11 5 Q 0 16 11 5"/>
+  </g>
+</svg>
