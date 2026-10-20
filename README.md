@@ -125,12 +125,6 @@
   <img src="https://streak-stats.demolab.com?user=sathvik89&theme=dark&hide_border=true&background=0D1B2A&ring=F4C430&fire=D7263D&currStreakLabel=F4C430&sideLabels=F4C430&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FB3C8" alt="GitHub streak" width="70%" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sathvik89/sathvik89/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/sathvik89/sathvik89/output/github-contribution-grid-snake.svg" alt="Sea king swimming through the contribution grid" width="100%" />
-  </picture>
-</p>
 
 <img src="./assets/rope-divider.svg" width="100%" alt="" />
 
