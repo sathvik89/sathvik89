@@ -7,7 +7,7 @@
 </p>
 
 ---
-### 🧑‍💻 About Me
+### 🧑‍💻 About Me.
 
 - I'm a **first-year Computer Science student** at **Newton School of Technology**, **Rishihood University**, Sonipat.
 - I love **coding**, **problem-solving**, and **exploring new technologies** — anything that lets me build, break, and grow.
