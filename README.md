@@ -20,11 +20,8 @@
 ## 📜 Captain's Log
 
 <table>
+  <td>
   <tr>
-    <td width="38%" align="center" valign="top">
-      <img src="./assets/wanted-poster.svg" alt="Wanted poster for Sathvik — bounty 280,000,000 for 280+ LeetCode problems" width="300" />
-    </td>
-<td width="62%" valign="top">
 
 **Ahoy! I'm Sathvik** — a Computer Science student at **Newton School of Technology × Rishihood University**, Sonipat, who builds full-stack products and the AI that sails inside them.
 
