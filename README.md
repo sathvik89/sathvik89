@@ -25,10 +25,11 @@
 
 **Ahoy! I'm Sathvik** — a Computer Science student at **Newton School of Technology × Rishihood University**, Sonipat, who builds full-stack products and the AI that sails inside them.
 
+- 🧪 **Research AI/ML Intern at Mstack** *(current)* — building **LLM pipelines on Temporal** that extract chemistry reactions from papers (**73% F1** vs 50.8% for Reaxys); benchmarked LLM, OCR and embedding models, cutting projected costs by **~98%**
 - ⚓ **SDE Intern at Prodoc AI** — shipped real-world **AI-driven tools** and **backend systems**
 - 🧭 Building **agentic AI**: LangGraph workflows, RAG pipelines and LLM-powered decision systems
 - 🗺️ Full-stack crew member: **React · Node.js · Express · MongoDB · TypeScript**
-- ⚔️ **280+ LeetCode problems** solved · **Codeforces 757+**
+- ⚔️ **350+ LeetCode problems** solved · **Codeforces 757+**
 - 🎓 **8.69 SGPA** in my first semester
 - 🏴‍☠️ Grew in communication, collaboration and time management with the **Neutron 2.0** crew
 - 🏸 Off the ship: **badminton**, **cricket** and **lawn tennis**
