@@ -40,6 +40,21 @@
 </tr>
 </table>
 
+## ⚗️ Current Voyage — Research AI/ML Intern @ Mstack
+
+Mstack is an AI-native chemical manufacturer that uses AI to work out how to make a target molecule, cutting route-scouting time by 90%.
+
+- Working on **LiteratureIQ**, an AI chemistry-literature extractor — an **LLM pipeline on Temporal workflows**, doing prompt and context engineering with LiteLLM, OpenRouter, Azure Blob, Vault, Grafana and Langfuse
+- Built **ThomasScribe**, a molecule-structure-image-to-SMILES microservice (MolDetect + MolScribe + RxnScribe), improving labelled-molecule recovery by **~88%**
+- Built the **journal extraction pipeline**: OpenAlex paper discovery, section-wise reaction extraction as Temporal child workflows — **73.0% F1 vs 50.8% for Reaxys** on a hand-checked answer set
+- Debugged and fixed production pipeline failures, stabilising on staging before prod
+- Built a **Claude Code pipeline** that turns a patent ID into a gold evaluation dataset (headless on VMs), plus an **annotator platform** to verify it
+- Benchmarked open-weight LLMs vs Claude Sonnet 4.5 on our own gold set and switched to **GLM-5.2**, cutting LLM cost by **~80%** at matching quality
+- Benchmarked OCR, translation and embedding models — picked PaddleOCR-VL, GLM-5.2 and BGE-M3, cutting projected cost for 66M patents from **~$29M to ~$0.47M (~98%)**
+- Researched **knowledge graphs for chemistry** (PubChemRDF, The World Avatar) and building a **benchmarking & pipeline-evaluation platform** that automates all of the above
+
+<img src="./assets/rope-divider.svg" width="100%" alt="" />
+
 ## 🧭 Log Pose — what I'm navigating now
 
 | Heading | Course |
